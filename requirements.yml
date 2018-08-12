@@ -3,6 +3,10 @@
   src: git@github.com:damex/ansible-role-package.git
   scm: git
 
+- name: timezone
+  src: git@github.com:damex/ansible-role-timezone.git
+  scm: git
+
 - name: screen
   src: git@github.com:damex/ansible-role-screen.git
   scm: git
