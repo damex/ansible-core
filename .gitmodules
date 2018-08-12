@@ -1,3 +1,6 @@
 [submodule "ansible-hosts"]
 	path = ansible-hosts
 	url = git@github.com:damex/ansible-hosts.git
+[submodule "ansible-configurations"]
+	path = ansible-configurations
+	url = git@github.com:damex/ansible-configurations.git
