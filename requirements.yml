@@ -1,0 +1,16 @@
+---
+- name: package
+  src: git@github.com:damex/ansible-role-package.git
+  scm: git
+
+- name: screen
+  src: git@github.com:damex/ansible-role-screen.git
+  scm: git
+
+- name: oh-my-zsh
+  src: git@github.com:damex/ansible-role-oh-my-zsh.git
+  scm: git
+
+- name: docker
+  src: git@github.com:damex/ansible-role-docker.git
+  scm: git
