@@ -19,6 +19,11 @@
   version: production
   scm: git
 
+- name: openssh
+  src: git@github.com:damex/ansible-role-openssh.git
+  version: production
+  scm: git
+
 - name: docker
   src: git@github.com:damex/ansible-role-docker.git
   version: production
