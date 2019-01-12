@@ -1,35 +1,35 @@
 ---
 - name: package
-  src: git@github.com:damex/ansible-role-package.git
+  src: https://github.com/damex/ansible-role-package.git
   version: production
   scm: git
 
 - name: timezone
-  src: git@github.com:damex/ansible-role-timezone.git
+  src: https://github.com/damex/ansible-role-timezone.git
   version: production
   scm: git
 
 - name: screen
-  src: git@github.com:damex/ansible-role-screen.git
+  src: https://github.com/damex/ansible-role-screen.git
   version: production
   scm: git
 
 - name: oh-my-zsh
-  src: git@github.com:damex/ansible-role-oh-my-zsh.git
+  src: https://github.com/damex/ansible-role-oh-my-zsh.git
   version: production
   scm: git
 
 - name: openssh
-  src: git@github.com:damex/ansible-role-openssh.git
+  src: https://github.com/damex/ansible-role-openssh.git
   version: production
   scm: git
 
 - name: docker
-  src: git@github.com:damex/ansible-role-docker.git
+  src: https://github.com/damex/ansible-role-docker.git
   version: production
   scm: git
 
 - name: pihole
-  src: git@github.com:damex/ansible-role-pihole.git
+  src: https://github.com/damex/ansible-role-pihole.git
   version: production
   scm: git
